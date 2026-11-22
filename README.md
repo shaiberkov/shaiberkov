@@ -28,12 +28,17 @@ I bridge the gap between complex software engineering and business growth. I bui
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,react,js,html,css,tailwind,vite,nodejs,python,docker,git,github,idea,vscode&perline=9" alt="Tech stack" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Claude%20Code-191919?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude Code" />
+</p>
+
 | Area | Tools |
 |---|---|
 | **Back-end** | Java, Spring Boot, Spring Security, Spring AI, Hibernate / JPA, REST APIs, MySQL |
 | **Front-end** | React, Vite, Tailwind CSS, JavaScript |
 | **AI & Data** | LLM integration, AI agents, Machine Learning |
-| **AI-assisted dev** | Claude Code, building AI agents and MCP integrations |
+| **AI-assisted dev** | Claude, Claude Code, building AI agents and MCP integrations |
 | **Tooling** | Docker, Git, Maven, Render |
 
 ## 🚀 Featured Projects
